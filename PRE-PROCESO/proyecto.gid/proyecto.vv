@@ -1,0 +1,33 @@
+BeginZE C:/Program Files/GiD/GiD 15.0.3/problemtypes/proyecto.gid/proyecto.vv
+   x -13.659296989440918 17.2414035797119141
+   y 9.82364082336425781 -8.5277252197265625
+   z -27.8018627166748047 27.8399906158447266
+   e 9.17568302154541016
+   v -0.156215387930861344 -0.415149460492407141 -0.720430366552182178
+   r -0.533130157631300339
+   m -0.382737964391708374 -0.638460814952850342 0.667742013931274414 0 0.897871792316436768 -0.0868463218212127686 0.431606292724609375 0 -0.217572778463363647 0.764738798141479492 0.606495380401611328 0 0 0 0 1
+   c 1.74117052555084229 0.553427755832672119 -0.0190634410828351974
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 1
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 0
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE C:/Program Files/GiD/GiD 15.0.3/problemtypes/proyecto.gid/proyecto.vv
+
